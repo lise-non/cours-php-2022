@@ -26,7 +26,9 @@ echo $tableau2DImension[1][2];
 //tableau associatifs (ecrit en snake_case)
 
 $professeur = [
-    'prenom' => 'arthur'
+    'prenom' => 'arthur',
+    'age' => 35,
+    'permis'=> true
 ];
 
 $phrase = '';
